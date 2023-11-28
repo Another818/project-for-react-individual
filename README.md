@@ -1,4 +1,4 @@
-# TaskList-React-Project
+# TaskList-React-Project - Repositorio Individual
 
 Grupo 1 - Integrantes:
 
